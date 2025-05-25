@@ -15,8 +15,8 @@ A simple, interactive, and modern CLI tool to check password strength using the 
 ### 1. Clone and build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password_strength_checker.git
-cd password_strength_checker
+git clone https://github.com/blvckcvbe/password-strength-checker-rs
+cd password-strength-checker-rs
 cargo run
 ```
 
